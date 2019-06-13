@@ -1,9 +1,9 @@
 +++
-title = "RAI: A Scalable Project Submission System for Parallel Programming Courses"
-date = "2017-05-29"
+title = "Challenges and Pitfalls of Reproducing Machine Learning Artifacts"
+date = "2019-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Adbul Dakkak", "Carl Pearson", "Cheng Li"]
+authors = ["Cheng Li", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
 
 # Publication type.
 # Legend:
@@ -14,14 +14,14 @@ authors = ["Adbul Dakkak", "Carl Pearson", "Cheng Li"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Parallel and Distributed Processing Symposium Workshops*, IEEE"
-publication_short = "In *IPDPSW*"
+publication = "In *arXiv*"
+publication_short = "In *arXiv*"
 
 # Abstract and optional shortened version.
-abstract = "A major component of many advanced programming courses is an open-ended “end-of-term project” assignment. Delivering and evaluating open-ended parallel programming projects for hundreds or thousands of students brings a need for broad system reconfigurability coupled with challenges of testing and development uniformity, access to esoteric hardware and programming environments, scalability, and security. We present RAI, a secure and extensible system for delivering open-ended programming assignments configured with access to different hardware and software requirements. We describe how the system was used to deliver a programming-competition-style final project in an introductory GPU programming course at the University of Illinois Urbana-Champaign."
+abstract = "An increasingly complex and diverse collection of Machine Learning(ML) models as well as hardware/software stacks, collectively referred to as 'ML artifacts', are being proposed - leading to a diverse landscape of ML. These ML innovations proposed have outpaced researchers' ability to analyze, study and adapt them. This is exacerbated by the complicated and sometimes non-reproducible procedures for ML evaluation. The current practice of sharing ML artifacts is through repositories where artifact authors post ad-hoc code and some documentation. The authors often fail to reveal critical information for others to reproduce their results. One often fails to reproduce artifact authors' claims, not to mention adapt the model to his/her own use. This article discusses the common challenges and pitfalls of reproducing ML artifacts, which can be used as a guideline for ML researchers when sharing or reproducing artifacts."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -35,7 +35,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "pdf/rai-edupar2017.pdf"
+url_pdf = "https://arxiv.org/abs/1904.12437"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
