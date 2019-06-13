@@ -1,29 +1,36 @@
-+++
-# Date this page was created.
-date = "2017-08-30"
-
-# Project title.
-title = "SCOPE"
-
-# Project summary to display on homepage.
-summary = "Infrastructure for extensible and portable benchmarking"
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["current"]
+---
+title: Scope
+summary: Extendable and customizable GPU benchmarking framework
+tags:
+- GPU
+- Tools
+date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/c3sr/scope"
+external_link: ""
 
-# Does the project detail page use math formatting?
-math = false
+image:
+  caption: 
+  focal_point: Smart
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ":smile:"
+links:
+- icon: github
+  icon_pack: fab
+  name: Scope
+  url: https://github.com/c3sr/scope
+- icon: github
+  icon_pack: fab
+  name: Comm|Scope
+  url: https://github.com/c3sr/comm_scope
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
-+++
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---

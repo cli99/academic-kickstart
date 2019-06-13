@@ -37,7 +37,7 @@ selected = true
 # Links (optional).
 url_pdf = "pdf/mfgpu-icpp2018.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/cuMF/cumf_als"
 url_dataset = ""
 url_project = ""
 url_slides = ""

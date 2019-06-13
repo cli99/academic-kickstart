@@ -37,9 +37,9 @@ selected = true
 # Links (optional).
 url_pdf = "pdf/scope-arxiv2018.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/c3sr/scope"
 url_dataset = ""
-url_project = ""
+url_project = "/project/scope"
 url_slides = ""
 url_video = ""
 url_poster = ""
