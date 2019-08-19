@@ -1,6 +1,6 @@
 +++
-event = "Tutorial at ISCA 2019"
-title = "ML Performance - Benchmarking Deep Learning Systems"
+event = "IEEE Services Doctoral Symposium "
+title = "MLModelScope: Evaluate and Introspect Cognitive Pipelines"
 highlight = true
 selected = true
 
@@ -14,10 +14,10 @@ projects = ["mlmodelscope"]
 
 abstract = ""
 url_slides = ""
-event_url = "https://sites.google.com/g.harvard.edu/mlperf-bench/home"
+event_url = "https://conferences.computer.org/services/2019/symposia/doctoralsymposium.html"
 math = false
-location = "Phoenix, Arizona"
-date = "2019-06-22T15:30:00-07:00"
+location = "Milan, Italy"
+date = "2019-07-10T15:30:00-07:00"
 abstract_short = ""
 url_video = ""
 url_pdf = ""

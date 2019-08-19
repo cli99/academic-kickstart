@@ -2,7 +2,7 @@
 event = "NVIDIA GPU Technology Conference 2019"
 title = "TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep Learning Inference"
 highlight = true
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

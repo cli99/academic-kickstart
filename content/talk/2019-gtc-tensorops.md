@@ -2,7 +2,7 @@
 event = "NVIDIA GPU Technology Conference 2019"
 title = "TensorOps: Accelerating Reduction Using Tensor Core Units"
 highlight = true
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

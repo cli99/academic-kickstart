@@ -2,7 +2,7 @@
 event = "Tutorial at ASPLOS 2019"
 title = "ML Performance - Benchmarking Deep Learning Systems"
 highlight = true
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

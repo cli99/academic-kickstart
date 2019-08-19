@@ -2,7 +2,7 @@
 event = "NVIDIA GPU Technology Conference 2017"
 title = "RAI: A Scalable Submission System for GPU Applications"
 highlight = true
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

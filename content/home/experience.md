@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Sunnyvale, CA"
   date_start = "2019-05-21"
-  date_end = ""
+  date_end = "2019-08-15"
   description = """
   <!-- Responsibilities include: -->
 

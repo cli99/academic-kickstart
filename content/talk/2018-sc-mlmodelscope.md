@@ -2,7 +2,7 @@
 event = "Super Computing 2018"
 title = "MLModelScope: Evaluate and Measure Machine Learning Models within AI Pipelines"
 highlight = true
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

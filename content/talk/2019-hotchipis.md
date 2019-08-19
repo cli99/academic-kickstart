@@ -1,6 +1,6 @@
 +++
-event = "Tutorial at ISCA 2019"
-title = "ML Performance - Benchmarking Deep Learning Systems"
+event = "HotChips 2019"
+title = "MLModelScope: Evaluate and Profile ML Models at Scale and Across Stack"
 highlight = true
 selected = true
 
@@ -14,10 +14,10 @@ projects = ["mlmodelscope"]
 
 abstract = ""
 url_slides = ""
-event_url = "https://sites.google.com/g.harvard.edu/mlperf-bench/home"
+event_url = "https://www.hotchips.org/program/"
 math = false
-location = "Phoenix, Arizona"
-date = "2019-06-22T15:30:00-07:00"
+location = "Palo Alto, California"
+date = "2019-08-19T15:30:00-07:00"
 abstract_short = ""
 url_video = ""
 url_pdf = ""
