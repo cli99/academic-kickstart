@@ -1,6 +1,6 @@
 +++
 event = "Tutorial at ASPLOS 2019"
-title = "ML Performance - Benchmarking Deep Learning Systems"
+title = "Tutorial at ASPLOS 2019 - Benchmarking Deep Learning Systems"
 highlight = true
 selected = true
 

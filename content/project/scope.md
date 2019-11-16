@@ -1,9 +1,10 @@
 ---
 title: Scope
-summary: Extendable and customizable GPU benchmarking framework
+summary: An extendable and customizable GPU benchmarking framework
 tags:
 - GPU
 - Tools
+- Benchmarking
 date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

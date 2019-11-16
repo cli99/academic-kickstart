@@ -1,6 +1,6 @@
 ---
-title: "TensorOps: Accelerating Collectives Using Tensor Core Units"
-summary: Leverage NVIDIA’s Tensor Cores to express reduction and scan with matrix multiplication and show the benefits in terms of program simplicity, efficiency, and performance.
+title: "TensorOps"
+summary: Leveraging NVIDIA’s Tensor Cores to express reduction and scan with matrix multiplication and showing the benefits in terms of program simplicity, efficiency, and performance.
 tags:
 - GPU
 - Algorithms
@@ -18,8 +18,8 @@ image:
 #   icon_pack: 
 #   name: 
 #   url: 
-url_code: ""
-url_pdf: "https://arxiv.org/abs/1811.09736"
+url_code: "https://github.com/c3sr/tcu_scope"
+url_pdf: "pdf/tops-ics.pdf"
 url_slides: ""
 url_video: ""
 
@@ -31,4 +31,4 @@ url_video: ""
 slides:
 ---
 
-Driven by deep learning, there has been a surge of specialized processors for matrix multiplication, referred to as Tensor Core Units (TCUs). These TCUs are capable of performing matrix multiplications on small matrices (usually 4 × 4 or 16 × 16) to accelerate the convolutional and recurrent neural networks in deep learning workloads. In this paper we lever- age NVIDIA’s TCU to express both reduction and scan with matrix multiplication and show the benefits — in terms of pro- gram simplicity, efficiency, and performance. Our algorithm exercises the NVIDIA TCUs which would otherwise be idle, achieves 89% − 98% of peak memory copy bandwidth, and is orders of magnitude faster (up to 100× for reduction and 3× for scan) than state-of-the-art methods for small segment sizes — common in machine learning and scientific applica- tions. Our algorithm achieves this while decreasing the power consumption by up to 22% for reduction and 16% for scan.
+Driven by deep learning, there has been a surge of specialized processors for matrix multiplication, referred to as Tensor Core Units (TCUs). These TCUs are capable of performing matrix multiplications on small matrices (usually 4 × 4 or 16 × 16) to accelerate HPC and deep learning workloads. Although TCUs are prevalent and promise increase in performance and/or energy efficiency, they suffer from over specialization as only matrix multiplication on small matrices is supported. In this paper we express both reduction and scan in terms of matrix multiplication operations and map them onto TCUs. To our knowledge, this paper is the first to try to broaden the class of algorithms expressible as TCU operations and is the first to show benefits of this mapping in terms of: program simplicity, efficiency, and performance. We implemented the reduction and scan algorithms using NVIDIA’s V100 TCUs and achieved 89% − 98% of peak memory copy bandwidth. Our results are orders of magnitude faster (up to 100x for reduction and 3x for scan) than state-of-the-art methods for small segment sizes (common in HPC and deep learning applications). Our implementation achieves this speedup while decreasing the power consumption by up to 22% for reduction and 16% for scan.

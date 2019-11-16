@@ -1,6 +1,6 @@
 +++
-event = "NVIDIA GPU Technology Conference 2017"
-title = "GTC 2017 - RAI: A Scalable Submission System for GPU Applications"
+event = "NVIDIA GPU Technology Conference 2019"
+title = "GTC 2019 - MLModelScope: Evaluate and Measure Machine Learning Models"
 highlight = true
 selected = true
 
@@ -10,17 +10,17 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["rai"]
+projects = ["mlmodelscope"]
 
 abstract = ""
-url_slides = "pdf/rai-gtc2017-slides.pdf"
+url_slides = ""
 event_url = "http://www.gputechconf.com/"
 math = false
 location = "San Jose, CA"
-date = "2017-05-08T15:30:00-07:00"
+date = "2019-03-22T15:30:00-07:00"
 abstract_short = ""
 url_video = ""
-url_pdf = "pdf/rai-gtc2017-poster.pdf"
+url_pdf = "pdf/mlmodelscope-gtc19-poster.pdf"
 
 [header]
   caption = ""

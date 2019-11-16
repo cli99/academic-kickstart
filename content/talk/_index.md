@@ -1,5 +1,5 @@
 ---
-title: Recent Talks & Posters
+title: Talks & Posters
 
 # View.
 #   1 = List
@@ -9,6 +9,6 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
 ---

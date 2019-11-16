@@ -1,6 +1,6 @@
 +++
-event = "NVIDIA GPU Technology Conference 2017"
-title = "GTC 2017 - RAI: A Scalable Submission System for GPU Applications"
+event = "Tutorial at IISWC 2019"
+title = "Tutorial at IISWC 2019 - Challenges and Solutions for End-to-End and Across Stack ML Benchmarking"
 highlight = true
 selected = true
 
@@ -10,17 +10,17 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["rai"]
+projects = ["mlmodelscope"]
 
 abstract = ""
-url_slides = "pdf/rai-gtc2017-slides.pdf"
-event_url = "http://www.gputechconf.com/"
+url_slides = ""
+event_url = "http://www.iiswc.org/iiswc2019/index.html" # http://www.iiswc.org/iiswc2019/program2019.html#t3
 math = false
-location = "San Jose, CA"
-date = "2017-05-08T15:30:00-07:00"
+location = "Phoenix, AZ"
+date = "2019-11-03T15:30:00-07:00"
 abstract_short = ""
 url_video = ""
-url_pdf = "pdf/rai-gtc2017-poster.pdf"
+url_pdf = ""
 
 [header]
   caption = ""

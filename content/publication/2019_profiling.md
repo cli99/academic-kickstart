@@ -37,11 +37,11 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "pdf/profiling-arxiv2019.pdf"
+url_pdf = "https://arxiv.org/abs/1908.06869" #"pdf/profiling-arxiv2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = "/project/mlmodelscope"
+url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""

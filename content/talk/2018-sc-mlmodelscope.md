@@ -1,6 +1,6 @@
 +++
 event = "Super Computing 2018"
-title = "MLModelScope: Evaluate and Measure Machine Learning Models within AI Pipelines"
+title = "SC 2018 - MLModelScope: Evaluate and Measure Machine Learning Models within AI Pipelines"
 highlight = true
 selected = true
 

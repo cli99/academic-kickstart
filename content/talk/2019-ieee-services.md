@@ -1,6 +1,6 @@
 +++
-event = "IEEE Services Doctoral Symposium "
-title = "MLModelScope: Evaluate and Introspect Cognitive Pipelines"
+event = "IEEE Services Doctoral Symposium 2019"
+title = "IEEE Services 2019 - MLModelScope: Evaluate and Introspect Cognitive Pipelines"
 highlight = true
 selected = true
 

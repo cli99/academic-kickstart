@@ -5,6 +5,7 @@ tags:
 - GPU
 - Compiler
 date: "2016-08-30T00:00:00Z"
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +20,7 @@ links:
   name: code
   url: https://github.com/illinois-impact/klap
 url_code: ""
-url_pdf: ""
+url_pdf: "pdf/klap-micro2016.pdf"
 url_slides: ""
 url_video: ""
 

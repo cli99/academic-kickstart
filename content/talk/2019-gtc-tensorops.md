@@ -1,6 +1,6 @@
 +++
 event = "NVIDIA GPU Technology Conference 2019"
-title = "TensorOps: Accelerating Reduction Using Tensor Core Units"
+title = "GTC 2019 - TensorOps: Accelerating Reduction Using Tensor Core Units"
 highlight = true
 selected = true
 

@@ -1,6 +1,6 @@
 +++
 event = "HotChips 2019"
-title = "MLModelScope: Evaluate and Profile ML Models at Scale and Across Stack"
+title = "HotChips 2019 - MLModelScope: Evaluate and Profile ML Models at Scale and Across Stack"
 highlight = true
 selected = true
 

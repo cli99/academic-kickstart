@@ -47,14 +47,14 @@ selected = true
 #   projects = [""]
 
 # Links (optional)
-url_pdf = "https://arxiv.org/abs/1811.09732"
+url_pdf = "pdf/trims-cloud.pdf" # "https://ieeexplore.ieee.org/document/8814494"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/rai-project/trims_mxnet"
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/e/2PACX-1vQKfH4-WPth_EovmGutmpzRqN24SewlLOElyWe6TcE6VM0GhMBJ1VRhUmLSp_E8U1fm842MM2cg1v00/pub?start=false&loop=false&delayms=3000"
 url_video = ""
-url_poster = ""
+url_poster = "pdf/trims-gtc19-poster.pdf"
 url_source = ""
 
 # Featured image
