@@ -1,27 +1,26 @@
 ---
-title: "TensorOps"
-summary: Leveraging NVIDIA’s Tensor Cores to express reduction and scan with matrix multiplication and showing the benefits in terms of program simplicity, efficiency, and performance.
+title: 'TOPS'
+summary: Leveraging NVIDIA’s Tensor Cores to express Collectives with matrix multiplication and exploring the benefits in terms of program simplicity, efficiency, and performance.
 tags:
-- GPU
-- Algorithms
-date: "2019-01-30T00:00:00Z"
+  - GPU
+  - Algorithms
+date: '2019-01-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: ''
 
 image:
-  caption: 
+  caption:
   focal_point:
 
-# links:
-# - icon: 
-#   icon_pack: 
-#   name: 
-#   url: 
-url_code: "https://github.com/c3sr/tcu_scope"
-url_pdf: "pdf/tops-ics.pdf"
-url_slides: ""
-url_video: ""
+  # links:
+  # - icon:
+  #   icon_pack:
+  #   name:
+url_code: 'https://github.com/c3sr/tcu_scope'
+url_pdf: 'pdf/tops-ics.pdf'
+url_slides: 'https://tcu.c3sr.com/'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

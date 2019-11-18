@@ -2,27 +2,27 @@
 title: KLAP
 summary: Kernel Lauch Aggregation and Promotion (KLAP), a set of compiler techniques that improve the performance of GPU kernels which use dynamic parallelism.
 tags:
-- GPU
-- Compiler
-date: "2016-08-30T00:00:00Z"
+  - GPU
+  - Compiler
+date: '2016-08-30T00:00:00Z'
 draft: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: ''
 
 image:
-  caption: 
+  caption:
   focal_point:
 
 links:
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/illinois-impact/klap
-url_code: ""
-url_pdf: "pdf/klap-micro2016.pdf"
-url_slides: ""
-url_video: ""
+  - icon: github
+    icon_pack: fab
+    name: code
+    url: https://github.com/illinois-impact/klap
+url_code: ''
+url_pdf: 'pdf/klap-micro2016.pdf'
+url_slides: ''
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

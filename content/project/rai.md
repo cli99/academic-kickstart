@@ -2,27 +2,27 @@
 title: RAI
 summary: A Scalable Project Submission System for Parallel Programming Courses.
 tags:
-- GPU
-- Tools
-- Education
-date: "2017-08-30T00:00:00Z"
+  - GPU
+  - Tools
+  - Education
+date: '2017-08-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: ''
 
 image:
-  caption: 
+  caption:
   focal_point:
 
 links:
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://rai-project.github.io/rai/
-url_code: "https://github.com/rai-project/rai"
-url_pdf: ""
-url_slides: ""
-url_video: ""
+  - icon: github
+    icon_pack: fab
+    name: code
+    url: https://rai-project.github.io/rai/
+url_code: 'https://github.com/rai-project/rai'
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

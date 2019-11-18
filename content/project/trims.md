@@ -1,28 +1,28 @@
 ---
-title: "TrIMS"
+title: 'TrIMS'
 summary: Transparent and Isolated Model Sharing for Low Latency Deep Learning Inference in Function as a Service Environments.
 tags:
-- Deep Learning
-- GPU
-- Cloud
-date: "2019-02-30T00:00:00Z"
+  - Deep Learning
+  - GPU
+  - Cloud
+date: '2019-02-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: ''
 
 image:
-  caption: 
+  caption:
   focal_point:
 
 # links:
-# - icon: 
-#   icon_pack: 
-#   name: 
-#   url: 
-url_code: "https://github.com/rai-project/trims_mxnet"
-url_pdf: "pdf/trims-cloud.pdf"
-url_slides: ""
-url_video: ""
+# - icon:
+#   icon_pack:
+#   name:
+#   url:
+url_code: 'https://github.com/rai-project/trims_mxnet'
+url_pdf: 'pdf/trims-cloud.pdf'
+url_slides: ''
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

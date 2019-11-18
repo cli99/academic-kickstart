@@ -1,6 +1,6 @@
 +++
 event = "NVIDIA GPU Technology Conference 2019"
-title = "GTC 2019 - TensorOps: Accelerating Reduction Using Tensor Core Units"
+title = "GTC 2019 - TOPS: Accelerating Reduction Using Tensor Core Units"
 highlight = true
 selected = true
 
@@ -20,7 +20,7 @@ location = "San Jose, CA"
 date = "2019-03-22T15:30:00-07:00"
 abstract_short = ""
 url_video = ""
-url_pdf = "pdf/tensorops-gtc19-poster.pdf"
+url_pdf = "pdf/tops-gtc19-poster.pdf"
 
 [header]
   caption = ""
