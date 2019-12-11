@@ -14,11 +14,11 @@ authors = ["Cheng Li", "Abdul Dakkak", "Jinjun Xiong", "Wei Wei", "Lingjie Xu", 
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *arXiv*"
-publication_short = "In *arXiv*"
+publication = "*International Parallel and Distributed Processing Symposium 2020*"
+publication_short = "*To appear in IPDPS 2020*"
 
 # Abstract and optional shortened version.
 abstract = """The world sees a proliferation of machine learning/deep learning (ML) models and their wide adoption in different application domains recently. This has made the profiling and characterization of ML models an increasingly pressing task for both hardware designers and system providers, as they would like to offer the best possible computing system to serve ML models with the desired latency, throughput, and energy requirements while maximizing resource utilization. Such an endeavor is challenging as the characteristics of an ML model depend on the interplay between the model, framework, system libraries, and the hardware (or the HW/SW stack). A thorough characterization requires understanding the behavior of the model execution across the HW/SW stack levels. Existing profiling tools are disjoint, however, and only focus on profiling within a particular level of the stack.
