@@ -4,7 +4,7 @@ date = 2019-04-09T00:00:00  # Schedule page publish date.
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Carl Pearson", "Abdul Dakkak", "Sarah Hashash", "Cheng Li", "I-Hsin Chung", "Jinjun Xiong", "Wen-Mei Hwu"]
+authors = ["Carl Pearson", "Abdul Dakkak", "Sarah Hashash", "**Cheng Li**", "I-Hsin Chung", "Jinjun Xiong", "Wen-Mei Hwu"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *2019 ACM/SPEC International Conference on Performance Engineering*"
-publication_short = "In *ICPE*"
+publication_short = "*ICPE*"
 
 # Abstract and optional shortened version.
 abstract = """Data-intensive applications such as machine learning and analytics have created a demand for faster interconnects to avert the memory bandwidth wall and allow GPUs to be effectively leveraged for lower compute intensity tasks. This has resulted in wide adoption of heterogeneous systems with varying underlying interconnects, and has delegated the task of understanding and copying data to the system or application developer. No longer is a malloc followed by memcpy the only or dominating modality of data transfer; application developers are faced with additional options such as unified memory and zero-copy memory. Data transfer performance on these systems is now impacted by many factors including data transfer modality, system interconnect hardware details, CPU caching state, CPU power management state, driver policies, virtual memory paging efficiency, and data placement.

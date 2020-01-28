@@ -3,7 +3,7 @@ title = "DLBricks: Composable Benchmark Generation to Reduce Deep Learning Bench
 date = "2019-11-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cheng Li", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
+authors = ["**Cheng Li**", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
 
 # Publication type.
 # Legend:

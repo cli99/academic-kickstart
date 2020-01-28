@@ -3,7 +3,7 @@ title = "Benanza: Automatic μBenchmark Generation to Compute ''Lower-bound'' La
 date = "2019-11-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cheng Li", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
+authors = ["**Cheng Li**", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
 
 # Publication type.
 # Legend:
