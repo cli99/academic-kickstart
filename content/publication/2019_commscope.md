@@ -4,7 +4,7 @@ date = 2019-04-09T00:00:00  # Schedule page publish date.
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Carl Pearson", "Adbul Dakkak", "Sarah Hashash", "Cheng Li", "I-Hsin Chung", "Jinjun Xiong", "Wen-Mei Hwu"]
+authors = ["Carl Pearson", "Abdul Dakkak", "Sarah Hashash", "Cheng Li", "I-Hsin Chung", "Jinjun Xiong", "Wen-Mei Hwu"]
 
 # Publication type.
 # Legend:
@@ -75,6 +75,5 @@ url_source = ""
   focal_point = ""
 +++
 
-
-* Best Paper for the ICPE research track papers
-* Functional ACM Artifact Evaluation.
+- Best Paper for the ICPE research track papers
+- Functional ACM Artifact Evaluation.

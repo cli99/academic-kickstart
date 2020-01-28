@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Cheng Li
+name: Cheng Li (李程)
 
 # Username (this should match the folder name)
 authors:
@@ -15,13 +15,12 @@ role: PhD candidate in Computer Science
 # Organizations/Affiliations
 organizations:
   - name: University of Illinois at Urbana-Champaign
-    url: ''
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include GPU for Deep Learning and HPC.
-
+bio: My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning.
 interests:
-  - GPU Acceleration for Deep Learning and HPC Applications
+  - GPU Acceleration for Deep Learning and AI Applications
   - System Design and Engineering for Deep Learning
 
 education:
@@ -46,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '#contact' # For a direct email link, use "mailto:test@example.org".
+    link: "#contact" # For a direct email link, use "mailto:test@example.org".
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -59,14 +58,14 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/cli99
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: pdf/Cheng_Li_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,6 +76,8 @@ user_groups:
 
 I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu).
 
-My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning. My work has focused on understanding, characterizing, and optimizing Deep Learning workloads. In the process, I have developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize Deep Learning training and inference across hardware and software stacks. The tools have been used to inform system design for Deep Learning model serving and develop highly tuned GPU kernels for model inference.
+My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning. My work has focused on understanding and optimizing Deep Learning workloads. In the process, I have developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize Deep Learning training and inference across hardware and software stacks. The tools have been used to inform system design for Deep Learning model serving and develop highly tuned GPU kernels for model inference.
 
-Currently I am working on [MLModelScope (CarML)](http://mlmodelscope.org/) as part of the IBM-ILLINOIS [Center for Cognitive Computing Systems Research (C3SR)](https://www.c3sr.com/). MLModelScope is an open-source, framework and hardware agnostic, extensible and customizable platform for evaluating and profiling ML models across datasets / frameworks / systems, at scale and across stack. MLModelScope is collaborating with the [MLPerf](https://mlperf.org/) community with the goal for it to be the "to-go" platform for Machine Learning inference benchmarking.
+[I'm on the job market this year, open to industry research and engineering positions.](mailto:cli99@illinois.edu)
+
+<!-- Currently I am working on [MLModelScope (CarML)](http://mlmodelscope.org/) as part of the IBM-ILLINOIS [Center for Cognitive Computing Systems Research (C3SR)](https://www.c3sr.com/). MLModelScope is an open-source, framework and hardware agnostic, extensible and customizable platform for evaluating and profiling ML models across datasets / frameworks / systems, at scale and across stack. MLModelScope is collaborating with the [MLPerf](https://mlperf.org/) community with the goal for it to be the "to-go" platform for Machine Learning inference benchmarking. -->
