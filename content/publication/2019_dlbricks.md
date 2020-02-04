@@ -14,7 +14,7 @@ authors = ["**Cheng Li**", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "International Conference on Performance Engineering 2020"
