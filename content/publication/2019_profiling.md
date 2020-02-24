@@ -1,6 +1,6 @@
 +++
 title = "XSP: Across-Stack Profiling and Analysis of Machine Learning Models on GPUs"
-date = "2019-08-19"
+date = "2020-01-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Cheng Li<sup>*<sup>**", "Abdul Dakkak<sup>*<sup>", "Jinjun Xiong", "Wei Wei", "Lingjie Xu", "Wen-mei Hwu"]
@@ -17,8 +17,8 @@ authors = ["**Cheng Li<sup>*<sup>**", "Abdul Dakkak<sup>*<sup>", "Jinjun Xiong",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*International Parallel and Distributed Processing Symposium 2020*"
-publication_short = "*IPDPS 2020 (Best Paper Normination)*"
+publication = "*International Parallel and Distributed Processing Symposium*"
+publication_short = "IPDPS (**Best Paper Normination**)"
 
 # Abstract and optional shortened version.
 abstract = """There has been a rapid proliferation of machine learning/deep learning (ML) models and wide adoption of them in many application domains. This has made profiling and characterization of ML model performance an increasingly pressing task for both hardware designers and system providers, as they would like to offer the best possible system to serve ML models with the target latency, throughput, cost, and energy requirements while maximizing resource utilization. Such an endeavor is challenging as the characteristics of an ML model depend on the interplay between the model, framework, system libraries, and the hardware (or the HW/SW stack). Existing profiling tools are disjoint, however, and only focus on profiling within a particular level of the stack, which limits the thoroughness and usefulness of the profiling results. 

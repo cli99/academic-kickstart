@@ -17,8 +17,8 @@ authors = ["**Cheng Li**", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *arXiv*"
-publication_short = "In *arXiv*"
+publication = "*arXiv*"
+publication_short = "*arXiv*"
 
 # Abstract and optional shortened version.
 abstract = """The current Deep Learning (DL) landscape is fast-paced and is rife with non-uniform models, hardware/software (HW/SW) stacks, but lacks a DL benchmarking platform to facilitate evaluation and comparison of DL innovations, be it models, frameworks, libraries, or hardware. Due to the lack of a benchmarking platform, the current practice of evaluating the benefits of proposed DL innovations is both arduous and error-prone - stifling the adoption of the innovations.

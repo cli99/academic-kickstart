@@ -17,8 +17,8 @@ authors = ["Johann Hauswald", "Yiping Kang", "Michael A. Laurenzano", "Quan Chen
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Symposium on Computer Architecture*"
-publication_short = "In *ISCA*"
+publication = "*International Symposium on Computer Architecture*"
+publication_short = "*ISCA*"
 
 # Abstract and optional shortened version.
 abstract = """As applications such as Apple Siri, Google Now, Microsoft Cortana, and Amazon Echo continue to gain traction, web-service companies are adopting large deep neural networks (DNN) for machine learning challenges such as image processing, speech recognition, natural language processing, among others. A number of open questions arise as to the design of a server platform specialized for DNN and how modern warehouse scale computers (WSCs) should be outfitted to provide DNN as a service for these applications. 

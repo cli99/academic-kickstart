@@ -16,8 +16,8 @@ authors = ["Wei Tan", "Shiyu Chang", "Liana Fong", "**Cheng Li**", "Zijun Wang",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Parallel Processing*"
-publication_short = "In *ICPP*"
+publication = "*International Conference on Parallel Processing*"
+publication_short = "*ICPP*"
 
 # Abstract and optional shortened version.
 abstract = """Matrix factorization (MF) discovers latent features from observations, which has shown great promises in the fields of collaborative filtering, data compression, feature extraction, word embedding, etc. While many problem-specific optimization techniques have been proposed, alternating least square (ALS) remains popular due to its general applicability (e.g. easy to handle positive-unlabeled inputs), fast convergence and parallelization capability. Current MF implementations are either optimized for a single machine or with a need for a large computer cluster but still are insufficient. This is because a single machine provides limited compute power for large-scale data while multiple machines suffer from the network communication bottleneck. 

@@ -1,6 +1,6 @@
 +++
 title = "Benanza: Automatic μBenchmark Generation to Compute ''Lower-bound'' Latency and Inform Optimizations of Deep Learning Models on GPUs"
-date = "2019-11-16"
+date = "2020-01-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Cheng Li<sup>*<sup>**", "Abdul Dakkak<sup>*<sup>", "Jinjun Xiong", "Wen-mei Hwu"]
@@ -17,8 +17,8 @@ authors = ["**Cheng Li<sup>*<sup>**", "Abdul Dakkak<sup>*<sup>", "Jinjun Xiong",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*International Parallel and Distributed Processing Symposium 2020*"
-publication_short = "*IPDPS 2020*"
+publication = "*International Parallel and Distributed Processing Symposium*"
+publication_short = "*IPDPS*"
 
 # Abstract and optional shortened version.
 abstract = """As Deep Learning (DL) models have been increasingly used in latency-sensitive applications, there has been a growing interest in improving their response time. An important venue for such improvement is to profile the execution of these models and characterize their performance to identify possible optimization opportunities. However, the current profiling tools lack the highly desired abilities to characterize ideal performance, identify sources of inefficiency, and quantify the benefits of potential optimizations. Such deficiencies have led to slow characterization/optimization cycles that cannot keep up with the fast pace at which new DL models are introduced.

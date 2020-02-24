@@ -18,7 +18,7 @@ authors = ["Abdul Dakkak", "**Cheng Li**", "Simon Garcia de Gonzalo", "Jinjun Xi
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE CLOUD 2019 *"
+publication = "*IEEE CLOUD*"
 publication_short = "*IEEE CLOUD*"
 
 # Abstract and optional shortened version.

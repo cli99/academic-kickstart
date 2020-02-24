@@ -17,8 +17,8 @@ authors = ["Johann Hauswald", "Michael A. Laurenzano", "Yunqi Zhang", "**Cheng L
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Architectural Support for Programming Languages and Operating Systems*"
-publication_short = "In *ASPLOS*"
+publication = "*International Conference on Architectural Support for Programming Languages and Operating Systems*"
+publication_short = "*ASPLOS*"
 
 # Abstract and optional shortened version.
 abstract = """As user demand scales for intelligent personal assistants (IPAs) such as Apple's Siri, Google's Google Now, and Microsoft's Cortana, we are approaching the computational limits of current datacenter architectures. It is an open question how future server architectures should evolve to enable this emerging class of applications, and the lack of an open-source IPA workload is an obstacle in addressing this question. 
