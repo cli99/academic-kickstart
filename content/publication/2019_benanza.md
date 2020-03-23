@@ -37,7 +37,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1911.06922" #"pdf/profiling-arxiv2019.pdf"
+url_pdf = "pdf/benanza-ipdps20.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -45,7 +45,7 @@ url_project = "/project/benanza"
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://benanza.mlmodelscope.org/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

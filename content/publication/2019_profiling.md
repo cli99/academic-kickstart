@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*International Parallel and Distributed Processing Symposium*"
-publication_short = "IPDPS (**Best Paper Normination**)"
+publication_short = "*IPDPS (Best Paper Normination)*"
 
 # Abstract and optional shortened version.
 abstract = """There has been a rapid proliferation of machine learning/deep learning (ML) models and wide adoption of them in many application domains. This has made profiling and characterization of ML model performance an increasingly pressing task for both hardware designers and system providers, as they would like to offer the best possible system to serve ML models with the target latency, throughput, cost, and energy requirements while maximizing resource utilization. Such an endeavor is challenging as the characteristics of an ML model depend on the interplay between the model, framework, system libraries, and the hardware (or the HW/SW stack). Existing profiling tools are disjoint, however, and only focus on profiling within a particular level of the stack, which limits the thoroughness and usefulness of the profiling results. 
@@ -37,7 +37,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1908.06869" #"pdf/profiling-arxiv2019.pdf"
+url_pdf = "pdf/xsp-ipdps20.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -45,7 +45,7 @@ url_project = "/project/mlmodelscope"
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://aspc19.mlmodelscope.com/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

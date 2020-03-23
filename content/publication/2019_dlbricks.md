@@ -37,7 +37,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1911.07967"
+url_pdf = "pdf/dlbricks-icpe20.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
