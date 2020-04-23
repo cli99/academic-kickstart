@@ -1,6 +1,7 @@
 +++
 title = "The Design and Implementation of a Scalable DL Benchmarking Platform"
-date = "2020-4-19"
+date = "2020-04-21"  # Schedule page publish date.
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Cheng Li***", "Abdul Dakkak*", "Jinjun Xiong", "Wen-mei Hwu"]
