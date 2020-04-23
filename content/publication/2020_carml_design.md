@@ -1,6 +1,6 @@
 +++
 title = "The Design and Implementation of a Scalable DL Benchmarking Platform"
-date = "2019-11-19"
+date = "2020-4-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Cheng Li***", "Abdul Dakkak*", "Jinjun Xiong", "Wen-mei Hwu"]
@@ -14,11 +14,11 @@ authors = ["**Cheng Li***", "Abdul Dakkak*", "Jinjun Xiong", "Wen-mei Hwu"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*arXiv*"
-publication_short = "*arXiv*"
+publication = "*IEEE CLOUD*"
+publication_short = "*IEEE CLOUD*"
 
 # Abstract and optional shortened version.
 abstract = """The current Deep Learning (DL) landscape is fast-paced and is rife with non-uniform models, hardware/software (HW/SW) stacks, but lacks a DL benchmarking platform to facilitate evaluation and comparison of DL innovations, be it models, frameworks, libraries, or hardware. Due to the lack of a benchmarking platform, the current practice of evaluating the benefits of proposed DL innovations is both arduous and error-prone - stifling the adoption of the innovations.
