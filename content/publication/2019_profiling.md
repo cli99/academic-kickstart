@@ -18,12 +18,13 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*International Parallel and Distributed Processing Symposium*"
-publication_short = "*IPDPS (Best Paper Normination)*"
+publication_short = "*IPDPS (Best Paper Award)*"
 
 # Abstract and optional shortened version.
 abstract = """There has been a rapid proliferation of machine learning/deep learning (ML) models and wide adoption of them in many application domains. This has made profiling and characterization of ML model performance an increasingly pressing task for both hardware designers and system providers, as they would like to offer the best possible system to serve ML models with the target latency, throughput, cost, and energy requirements while maximizing resource utilization. Such an endeavor is challenging as the characteristics of an ML model depend on the interplay between the model, framework, system libraries, and the hardware (or the HW/SW stack). Existing profiling tools are disjoint, however, and only focus on profiling within a particular level of the stack, which limits the thoroughness and usefulness of the profiling results. 
 
-This paper proposes XSP — an across-stack profiling design that gives a holistic and hierarchical view of ML model execution. XSP leverages distributed tracing to aggregate and correlate profile data from different sources. XSP introduces a leveled and iterative measurement approach that accurately captures the latencies at all levels of the HW/SW stack in spite of the profiling overhead. We couple the profiling design with an automated analysis pipeline to systematically analyze65state-of-the-art ML models. We demonstrate that XSP provides insights which would be difficult to discern otherwise."""
+This paper proposes XSP — an across-stack profiling design that gives a holistic and hierarchical view of ML model execution. XSP leverages distributed tracing to aggregate and correlate profile data from different sources. XSP introduces a leveled and iterative measurement approach that accurately captures the latencies at all levels of the HW/SW stack in spite of the profiling overhead. We couple the profiling design with an automated analysis pipeline to systematically analyze65state-of-the-art ML models. We demonstrate that XSP provides insights which would be difficult to discern otherwise.
+"""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -42,7 +43,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = "/project/mlmodelscope"
-url_slides = ""
+url_slides = "pdf/xsp-ipdps20-slides.pdf"
 url_video = ""
 url_poster = ""
 url_source = "https://aspc19.mlmodelscope.com/"
