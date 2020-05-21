@@ -79,7 +79,7 @@ I am a PhD candidate in Computer Science at the University of Illinois at Urbana
 
 My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning. My work has focused on understanding and optimizing Deep Learning workloads. In the process, I have developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize Deep Learning training and inference across hardware and software stacks. The tools have been used to inform system design for Deep Learning model serving and develop highly tuned GPU kernels for model inference.
 
-[**I'm on the job market, open to industry positions！**](mailto:cli99@illinois.edu)
+[**I'm joining Microsoft in August！**](mailto:cli99@illinois.edu)
 
 <!-- Currently I am working on [MLModelScope (CarML)](http://mlmodelscope.org/) as part of the IBM-ILLINOIS [Center for Cognitive Computing Systems Research (C3SR)](https://www.c3sr.com/). MLModelScope is an open-source, framework and hardware agnostic, extensible and customizable platform for evaluating and profiling ML models across datasets / frameworks / systems, at scale and across stack. MLModelScope is collaborating with the [MLPerf](https://mlperf.org/) community with the goal for it to be the "to-go" platform for Machine Learning inference benchmarking. -->
 
