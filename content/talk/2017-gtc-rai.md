@@ -14,7 +14,7 @@ projects = ["rai"]
 
 abstract = ""
 url_slides = "pdf/rai-gtc2017-slides.pdf"
-event_url = "http://www.gputechconf.com/"
+event_url = "https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=s7329-open-source+tools+for+gpu+programming+assignments+in+large+classroom+settings"
 math = false
 location = "San Jose, CA"
 date = "2017-05-08T15:30:00-07:00"
